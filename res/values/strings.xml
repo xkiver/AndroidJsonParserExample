@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HttpConnectExample</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="button_string">Descargar datos</string>
+    <string name="empty_string"></string>
+    <string name="page_url">http://maps.googleapis.com/maps/api/directions/json?origin=Valparaiso&amp;destination=Santiago&amp;sensor=false</string>
+    
+    <string name="connectivity_error_title">Error</string>
+    <string name="connectivity_error">Existe un error de conectividad, por favor revisa tus ajustes</string>
+    <string name="config_button">Ir a configuración</string>
+    <string name="accept_button">Aceptar</string>
+
+</resources>
